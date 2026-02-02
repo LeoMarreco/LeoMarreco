@@ -1,12 +1,8 @@
 # Hello, my name is Leonardo, and welcome to my GitHub 😊
 
-<div align="">
-  <a href="https://github.com/LeoMarreco">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=leomarreco&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomarreco&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+<div>
+  <a href="http://github.com/LeoMarreco">
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   
@@ -24,8 +20,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ferreira-b53bb78a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo_marreco/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 
 ###
 
