@@ -112,15 +112,4 @@ Me chamo Leonardo Ferreira, tenho 41 anos e sou natural de São Gonçalo-RJ. Sou
 <br/>
 
 ---
-
-### 📊 Estatísticas
-
-<p>
-    <img
-        align="left"
-        alt="GitHub stats"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=LeoMarreco&show_icons=true&theme=tokyonight"
-    />
-</p>
  
